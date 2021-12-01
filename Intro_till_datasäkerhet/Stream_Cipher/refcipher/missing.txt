@@ -1,0 +1,13 @@
+Looking for the following file(s):
+
+    MyRandom.java
+
+Running "unzip -l Stream2.zip" gives the following result:
+
+Archive:  Stream2.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     2402  04-08-2021 18:45   Stream2/StreamCipher.java
+    44933  04-08-2021 18:50   Stream2/Report.pdf
+---------                     -------
+    47335                     2 files
